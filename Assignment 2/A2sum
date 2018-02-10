@@ -1,3 +1,6 @@
+／／nice try, but what if the given arr is not in increasing order? what if the  the given example is only an example, you should consider all of the cases as long as you can think about.
+// code works in this situation, and meet the coding style requirements. I will not substract the scores for the corner cases this time. But please pay attention to it next time.
+// total scores : 10 / 10 
 import java.util.Arrays;
  
 public class A2sum {
